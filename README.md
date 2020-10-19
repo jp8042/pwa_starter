@@ -60,12 +60,17 @@ Dokumentasi dapat ditemukan di <http://materializecss.com>. Untuk menjalankan do
 Run these commands to set up the documentation:
 
 ```bash (open a git bash)
-git clone https://github.com/Dogfalo/materialize
-cd materialize
-npm install
+git clone https://github.com/Dogfalo/materialize (in bash)
+cd materialize (move to folder materialize)
+npm install 
+
+
+done.
 ```
 
 Then run `grunt monitor` to compile the documentation. When it finishes, open a new browser window and navigate to `localhost:8000`. We use [BrowserSync](https://www.browsersync.io/) to display the documentation.
+
+Kemudian jalankan `grunt monitor` untuk mengompilasi dokumentasi. Setelah selesai, buka jendela browser baru dan navigasikan ke `localhost: 8000`. Kami menggunakan [BrowserSync] (https://www.browsersync.io/) untuk menampilkan dokumentasi.
 
 ### Documentation for previous releases
 Previous releases and their documentation are available for [download](https://github.com/Dogfalo/materialize/releases).
