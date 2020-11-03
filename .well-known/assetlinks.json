@@ -1,0 +1,10 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "me.glitch.horse_infrequent_plaster.twa",
+    "sha256_cert_fingerprints": [
+      "EB:9F:D4:4A:83:FC:AD:8D:AE:CB:56:0B:85:F6:98:8C:FF:77:33:CF:7F:48:30:3A:CD:DE:23:12:CD:75:40:92"
+    ]
+  }
+}]
